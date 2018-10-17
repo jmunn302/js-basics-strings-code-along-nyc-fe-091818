@@ -1,3 +1,3 @@
 // Write your code in this file!
 let currentUser = 'Julie'
-let welcomeMessage = 'Welcome to Flatbook, ' + currentUser
+let welcomeMessage = 'Welcome to Flatbook, ' + currentUser + '!'
